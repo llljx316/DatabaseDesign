@@ -1,0 +1,2 @@
+后端环境通过虚拟环境或conda环境用pip安装requirements.txt中的包
+前端环境通过npm进行配置
